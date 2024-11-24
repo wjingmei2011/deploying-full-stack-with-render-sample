@@ -1,3 +1,5 @@
+//This file defines the logic with database
+
 const fetch = require('node-fetch'); // import node-fetch (enables the fetch API to be used server-side)
 const { Pool } = require('pg'); // import node-postgres
 
